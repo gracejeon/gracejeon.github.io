@@ -1083,11 +1083,11 @@
 .icon-google-play:before {
   content: "\ea60";
 }
-.icon-google+-with-circle:before {
+.icon-google-with-circle:before {
   content: "\ea61";
 }
-.icon-google+:before {
-  content: "\ea62";
+.icon-google2:before {
+  content: "\e900";
 }
 .icon-grooveshark:before {
   content: "\ea63";
